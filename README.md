@@ -1,6 +1,6 @@
 ﻿# Tools_in_Data_Science
  This repo contains project done by me in the course of tools in data science which is part of BSC degree in Programming and Data Science from IIT Madras.
-### FILES :
+### Files :
 #### ratings.csv
 - contains ratings sorted by time.Ratings go from one to five. Both book IDs and user IDs are contiguous. For books, they are 1-10000, for users, 1-53424.
 #### to_read.csv
