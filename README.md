@@ -1,11 +1,11 @@
 ﻿# Tools_in_Data_Science
  This repo contains project done by me in the course of tools in data science which is part of BSC degree in Programming and Data Science from IIT Madras.
-## FILES :
-### ratings.csv
+### FILES :
+#### ratings.csv
 - contains ratings sorted by time.Ratings go from one to five. Both book IDs and user IDs are contiguous. For books, they are 1-10000, for users, 1-53424.
-### to_read.csv
+#### to_read.csv
 - provides IDs of the books marked "to read" by each user, as user_id,book_id pairs, sorted by time.
-### books.csv
+#### books.csv
 - has metadata for each book (goodreads IDs, authors, title, average rating, etc.). The metadata has been extracted from goodreads XML files.
-### book_tags.csv 
+#### book_tags.csv 
 - contains tags/shelves/genres assigned by users to books. Tags in this file are represented by their IDs. Each book_id has multiple tag_id.The field "count" denotes ‘user records’ (the number of users tagged the given tag_id with the goodreads_book_id).
